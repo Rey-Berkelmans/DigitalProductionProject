@@ -10,8 +10,8 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #1abc9c;
-  color: white;
+  background: #b1e5f2;
+  color: #272635;
 }
 
 .header h1 {
@@ -20,7 +20,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #272635;
   position: sticky;
   position: -webkit-sticky;
   top: 0;
@@ -40,7 +40,7 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: #a6a6a8;
   color: black;
 }
 
@@ -59,19 +59,19 @@ body {
 .side {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #cecece;
   padding: 20px;
 }
 
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: white;
+  background-color: #eef0ff;
   padding: 20px;
 }
 
 .fakeimg {
-  background-color: #aaa;
+  background-color: #a6a6a8;
   width: 100%;
   padding: 20px;
 }
@@ -79,7 +79,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #a6a6a8;
 }
 
 @media screen and (max-width: 700px) {
