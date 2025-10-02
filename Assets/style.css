@@ -39,13 +39,19 @@ body {
   float: right;
 }
 
+.navbar a.rightactive {
+  float: right;
+  background-color: #000000;
+  color: white;
+}
+
 .navbar a:hover {
-  background-color: #a6a6a8;
+  background-color: #928dc7;
   color: black;
 }
 
 .navbar a.active {
-  background-color: #666;
+  background-color: #000000;
   color: white;
 }
 
