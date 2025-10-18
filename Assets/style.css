@@ -10,7 +10,7 @@ body {
 .header {
   padding: 150px;
   text-align: center;
-  background: #b1e5f2;
+  background: linear-gradient(#b1e5f2, #68d9f5);
   color: #272635;
 }
 
@@ -85,7 +85,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #a6a6a8;
+  background: linear-gradient(#a6a6a8, rgb(112, 112, 119));
 }
 
 @media screen and (max-width: 700px) {
