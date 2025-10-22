@@ -2,6 +2,10 @@
 
 # References
 
+Gupta, P. (2025). HTML Login Form. Geeks for Geeks. https://www.geeksforgeeks.org/html/html-login-form/ 
+
+Rohit. (2023). How to redirect to another page in HTML after login. Tutorial by EyeHunts. https://tutorial.eyehunts.com/html/how-to-redirect-to-another-page-in-html-after-login/ 
+
 Thakkar, N. (2024.) How to Make a Button Link to Another Page in HTML? Scaler Topics. https://www.scaler.com/topics/how-to-make-a-button-link-to-another-page-in-html/
 
 (2013.) How to center navigation bar in UL? Stack Overflow. https://stackoverflow.com/questions/17128204/how-to-center-navigation-bar-in-ul
