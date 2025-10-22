@@ -2,7 +2,11 @@
 
 # References
 
+Thakkar, N. (2024.) How to Make a Button Link to Another Page in HTML? Scaler Topics. https://www.scaler.com/topics/how-to-make-a-button-link-to-another-page-in-html/
+
 (2013.) How to center navigation bar in UL? Stack Overflow. https://stackoverflow.com/questions/17128204/how-to-center-navigation-bar-in-ul
+
+(2025.) HTML buttom Tag. W3 Schools. https://www.w3schools.com/tags/tag_button.asp
 
 (2025). HTML Responsive Web Design. W3 Schools. https://www.w3schools.com/html/html_responsive.asp
 
