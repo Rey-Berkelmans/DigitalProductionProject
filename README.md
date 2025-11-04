@@ -26,6 +26,8 @@ Thakkar, N. (2024.) How to Make a Button Link to Another Page in HTML? Scaler To
 
 (2025). How To Center an Image. W3 Schools. https://www.w3schools.com/howto/howto_css_image_center.asp
 
+(2025). How Ro Create Popups. W3 Schools. https://www.w3schools.com/howto/howto_js_popup.asp 
+
 (2025). HTML Links - Different Colors. W3 Schools. https://www.w3schools.com/html/html_links_colors.asp
 
 (2025). How To Create an Example Website. W3 Schools. https://www.w3schools.com/howto/howto_css_example_website.asp 
