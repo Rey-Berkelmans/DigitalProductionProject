@@ -8,8 +8,6 @@ Rohit. (2023). How to redirect to another page in HTML after login. Tutorial by 
 
 Thakkar, N. (2024.) How to Make a Button Link to Another Page in HTML? Scaler Topics. https://www.scaler.com/topics/how-to-make-a-button-link-to-another-page-in-html/
 
-(2013.) How to center navigation bar in UL? Stack Overflow. https://stackoverflow.com/questions/17128204/how-to-center-navigation-bar-in-ul
-
 (2025.) HTML a download Attribute. W3 Schools. https://www.w3schools.com/TAGS/att_a_download.asp 
 
 (2025.) HTML buttom Tag. W3 Schools. https://www.w3schools.com/tags/tag_button.asp
@@ -26,8 +24,12 @@ Thakkar, N. (2024.) How to Make a Button Link to Another Page in HTML? Scaler To
 
 (2025). How To Center an Image. W3 Schools. https://www.w3schools.com/howto/howto_css_image_center.asp
 
-(2025). How Ro Create Popups. W3 Schools. https://www.w3schools.com/howto/howto_js_popup.asp 
-
-(2025). HTML Links - Different Colors. W3 Schools. https://www.w3schools.com/html/html_links_colors.asp
+(2025). How To Create Popups. W3 Schools. https://www.w3schools.com/howto/howto_js_popup.asp 
 
 (2025). How To Create an Example Website. W3 Schools. https://www.w3schools.com/howto/howto_css_example_website.asp 
+
+(2013.) How to center navigation bar in UL? Stack Overflow. https://stackoverflow.com/questions/17128204/how-to-center-navigation-bar-in-ul
+
+(2025). How To Password Protect A Page Using Only HTML, CSS and JavaScript? Tutorials Point. https://www.tutorialspoint.com/how-to-password-protect-a-page-using-only-html-css-and-javascript 
+
+(2025). HTML Links - Different Colors. W3 Schools. https://www.w3schools.com/html/html_links_colors.asp
