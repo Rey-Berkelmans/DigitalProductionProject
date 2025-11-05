@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Veles Laboratory</title>
     <link rel="stylesheet" href="Assets/style.css">
+    <script src="Assets/script.js"></script>
     <link rel="icon" href="Assets/Logo_Veles.png"/>
 </head>
 <body>
@@ -28,25 +29,22 @@
     <br>
         <h3>Enter your login credentials</h3>
 
-        <form action="">
-            <label for="first">
-                Username:
-            </label>
-            <input type="text" id="first" name="first" 
-                placeholder="Enter your Username" required>
+        <form id="pswd">
 
             <label for="password">
                 Password:
             </label>
-            <input type="password" id="password" name="password" 
+            <input type="password" id="validate" 
                 placeholder="Enter your Password" required>
 
             <div class="wrap">
-                <button class="button button1" type="submit">
+                <button class="button button1" onclick="fun()">
                     Login
                 </button>
             </div>
         </form>
+</div>
+
 <br>
 </div>
 
